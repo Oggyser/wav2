@@ -1,25 +1,29 @@
 <p align="center">
-<img src=https://i.ibb.co/6t2NNmD/dnsnew.jpg" alt="20210103-132024" border="0">
+<img src="https://imgbb.com/"><img src="https://i.ibb.co/YdL4ww8/dnsnew.jpg" alt="dnsnew" border="0"></a>
 </p>
 <p align="center">
-<a href="https://github.com/xxirfanx">
+<a href=https://github.com/deathshifter29/wav2
 </p>
 
   
 ## Things I Code With
 <p>
     <img
-        src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
+        src= "https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
     <img
-        src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+        src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
 
 
 
 ## Clone This Project is
 
 ```bash
-> git clone https://github.com/xxirfanx/wav2
+>pkg update && pkg upgrade
+>pkg install git -y
+> pkg install nodejs -y
+> git clone https://github.com/deathshifter29/wav2
 ```
+
 ```bash
 > cd wav2
 > bash install.sh
@@ -32,8 +36,8 @@
 
 
 ## Special Thanks To
-* [`Fxc7 UYIR`](https://github.com/Fxc7)
+* [ KILLADY JOCKER FFC ](http://kckjoker.github.io) 
 
 ## Sosmed
-* [`Telegram admin`](https://t.me/LAU_BRO)
-* [`WhatsApp Admin`](http://wa.me/19152665341)
+* [`Instagram admin`](https://www.instagram.com/__death_shifter_?r=nametag)
+* [`WhatsApp Admin`](http://wa.me/916282670349)
