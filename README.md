@@ -20,7 +20,6 @@
 ```bash
 > git clone https://github.com/xxirfanx/wav2
 ```
-
 ```bash
 > cd wav2
 > bash install.sh
