@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://imgbb.com/"><img src="https://i.ibb.co/YdL4ww8/dnsnew.jpg" alt="dnsnew" border="0"></a>
+<img src="https://i.ibb.co/YdL4ww8/dnsnew.jpg" alt="dnsnew" border="0"></a>
 </p>
 <p align="center">
 <a href=https://github.com/deathshifter29/wav2
