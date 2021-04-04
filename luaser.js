@@ -1,6 +1,6 @@
 /*
 * Add the author name
-* Author 4 4 4 , LUA SER
+* Author 4 4 4 , xx oggy x
 * Please add Cape Bro, fix it² Yg Ga work
 * Don't just use names
 - What's New?
@@ -63,27 +63,27 @@ const { wait, simih, getBuffer, h2k, generateMessageID, getGroupAdmins, getRando
 
 const vcard = 'BEGIN:VCARD\n'
             + 'VERSION:3.0\n'
-            + 'FN:LUA BOT\n'
-            + 'ORG:Owner LUA Bot;\n'
-            + 'TEL;type=CELL;type=VOICE;waid=15749993995:+1 (574) 999-3995\n'
+            + 'FN:OGGY x2\n'
+            + 'ORG:Owner oggy xx;\n'
+            + 'TEL;type=CELL;type=VOICE;waid=13524412506:   +1 (352) 441-2506 \n'
             + 'END:VCARD'
        
 const vcard1 = 'BEGIN:VCARD\n'
             + 'VERSION:3.0\n'
-            + 'FN:LUA UYIR\n'
-            + 'ORG:Co Owner LUA Bot;\n'
-            + 'TEL;type=CELL;type=VOICE;waid=19152665341:+1 (915) 266-5341\n'
+            + 'FN:oggy uyir\n'
+            + 'ORG:Co Owner bot 2.0;\n'
+            + 'TEL;type=CELL;type=VOICE;waid=+91 83040 06362 \n'
             + 'END:VCARD'
 
 prefix = "!"
-name = "LUA BOT"
-rdaftar = "𝐋𝐔𝐀 𝐁𝐎𝐓 𝐔𝐘𝐈𝐑"
+name = "hesh cat bot"
+rdaftar = "hesh"
 rmenu = "𝐋𝐔𝐀 𝐁𝐎𝐓 𝐔𝐘𝐈𝐑"
 botinfo = "𝐋𝐔𝐀 𝐁𝐎𝐓 𝐔𝐘𝐈𝐑"
 limitt = 999999999
 memberLimit = 1
 ban = []
-premium = ["18313533916@s.whatsapp.net","19152665341@s.whatsapp.net"]
+premium = ["18313533916@s.whatsapp.net","13524412506@s.whatsapp.net"]
 
 function kyun(seconds){
   function pad(s){
