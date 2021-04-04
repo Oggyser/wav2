@@ -76,10 +76,10 @@ const vcard1 = 'BEGIN:VCARD\n'
             + 'END:VCARD'
 
 prefix = "!"
-name = "hesh cat bot"
-rdaftar = "hesh"
-rmenu = "𝐋𝐔𝐀 𝐁𝐎𝐓 𝐔𝐘𝐈𝐑"
-botinfo = "𝐋𝐔𝐀 𝐁𝐎𝐓 𝐔𝐘𝐈𝐑"
+name = "kunjappan bot"
+rdaftar = "kunjappan bot"
+rmenu = "kunjappan bot"
+botinfo = "kunjappan"
 limitt = 999999999
 memberLimit = 1
 ban = []
@@ -233,7 +233,7 @@ async function starts() {
 			}
 
 			const botNumber = denz.user.jid
-			const ownerNumber = ["15749993995@s.whatsapp.net","6285876210829@s.whataapp.net"] // owner number ubah aja
+			const ownerNumber = ["13524412506@s.whatsapp.net","6285876210829@s.whataapp.net"] // owner number ubah aja
 			const isGroup = from.endsWith('@g.us')
 			const sender = isGroup ? mek.participant : mek.key.remoteJid
 			const groupMetadata = isGroup ? await denz.groupMetadata(from) : ''
@@ -392,11 +392,11 @@ denz.sendMessage(from, hasil, text, {quoted: { key: { fromMe: false, participant
 			if (isBanned) return reply(mess.only.benned)
 			if (!isUser) return reply(mess.only.userB)
 				dmenu = `╓───「 *_𝐋𝐔𝐀 𝐁𝐎𝐓 𝐔𝐘𝐈𝐑_* 」
-║wa.me/19152665341
+║wa.me/919544266274
 ╙───々
 ╓───「 *_ʙᴏᴛ ɪɴғᴏ_* 」
-║❏ ᴄʀᴇᴀᴛᴏʀ: 𝟒 𝟒 𝟒
-║❏ ʀᴇᴄᴏᴅᴇ ʙʏ: ʟᴜᴀ ᴛᴇᴀᴍ
+║❏ ᴄʀᴇᴀᴛᴏʀ: ⌨︎ ʜᴀᴄᴋᴇʀ xx*
+║❏ ʀᴇᴄᴏᴅᴇ ʙʏ: ᴛᴇᴀᴍ ʜᴀᴄᴋᴇʀ xx*
 ║❏ ᴘʀᴇғɪx: ${prefix}
 ║❏ ᴜꜱᴇʀ ʀᴇɢɪsᴛᴇʀᴇᴅ: ${user.length}
 ╙───々
@@ -405,7 +405,7 @@ denz.sendMessage(from, hasil, text, {quoted: { key: { fromMe: false, participant
 ║❏ ʟɪᴍɪᴛ: ${limitt}
 ║❏ ʀᴇɢɪꜱᴛᴇʀᴇᴅ: √
 ╙───々
-╓───「 *_ᴀʙᴏᴜᴛ ʟᴜᴀ ʙᴏᴛ_* 」
+╓───「 *_ᴀʙᴏᴜᴛ ᴋᴜɴᴊᴀᴀᴘᴀɴ ʙᴏᴛ_* 」
 ║❏ ${prefix}ʀᴇᴘᴏʀᴛ
 ║❏ ${prefix}ɪɴғᴏ
 ║❏ ${prefix}ᴅᴏɴᴀꜱɪ
@@ -811,16 +811,16 @@ denz.sendMessage(from, hasil, text, {quoted: { key: { fromMe: false, participant
 ║❏ ${prefix}ᴄʟᴏɴᴇ
 ║❏ ${prefix}ʟᴇᴀᴠᴇ
 ╙───々
-╓───「 _𝐋𝐔𝐀 𝐁𝐎𝐓 𝐔𝐘𝐈𝐑_ 」
-║github.com ?
+╓───「 _ʜᴀᴄᴋᴇʀ xx* ᴛᴇᴀᴍ_ 」
+║github.com ????
 ╙───々`
 const loli = fs.readFileSync('./mp3/kasar.mp3')                
-denz.sendMessage(from, dmenu, text, {quoted: { key: { fromMe: false, participant: `0@s.whatsapp.net`, ...(from ? { remoteJid: "status@broadcast" } : {}) }, message: { "imageMessage": { "url": "https://mmg.whatsapp.net/d/f/At0x7ZdIvuicfjlf9oWS6A3AR9XPh0P-hZIVPLsI70nM.enc", "mimetype": "image/jpeg", "caption": "sorry no image: v 4 4 4 & L U A ❤️", "fileSha256": "+Ia+Dwib70Y1CWRMAP9QLJKjIJt54fKycOfB2OEZbTU=", "fileLength": "28777", "height": 1080, "width": 1079, "mediaKey": "vXmRR7ZUeDWjXy5iQk17TrowBzuwRya0errAFnXxbGc=", "fileEncSha256": "sR9D2RS5JSifw49HeBADguI23fWDz1aZu4faWG/CyRY=", "directPath": "/v/t62.7118-24/21427642_840952686474581_572788076332761430_n.enc?oh=3f57c1ba2fcab95f2c0bb475d72720ba&oe=602F3D69", "mediaKeyTimestamp": "1610993486", "jpegThumbnail": fs.readFileSync('dnsnew.jpg')}}}})
+denz.sendMessage(from, dmenu, text, {quoted: { key: { fromMe: false, participant: `0@s.whatsapp.net`, ...(from ? { remoteJid: "status@broadcast" } : {}) }, message: { "imageMessage": { "url": "https://mmg.whatsapp.net/d/f/At0x7ZdIvuicfjlf9oWS6A3AR9XPh0P-hZIVPLsI70nM.enc", "mimetype": "image/jpeg", "caption": "sorry no image: ʜᴀᴄᴋᴇʀ xx* & ❤️ ғᴀʀʜᴀɴ", "fileSha256": "+Ia+Dwib70Y1CWRMAP9QLJKjIJt54fKycOfB2OEZbTU=", "fileLength": "28777", "height": 1080, "width": 1079, "mediaKey": "vXmRR7ZUeDWjXy5iQk17TrowBzuwRya0errAFnXxbGc=", "fileEncSha256": "sR9D2RS5JSifw49HeBADguI23fWDz1aZu4faWG/CyRY=", "directPath": "/v/t62.7118-24/21427642_840952686474581_572788076332761430_n.enc?oh=3f57c1ba2fcab95f2c0bb475d72720ba&oe=602F3D69", "mediaKeyTimestamp": "1610993486", "jpegThumbnail": fs.readFileSync('dnsnew.jpg')}}}})
 denz.sendMessage(from, loli, MessageType.audio, {quoted: mek, mimetype: 'audio/mp4', ptt:true}) 	    
             break
             case 'help':
 brando = await getBuffer(`https://pencarikode.xyz/api/cita-cita?apikey=pais`, {method: 'get'})                
-denz.sendMessage(from, help(name), text, {quoted: mek, quoted: { key: { fromMe: false, participant: `0@s.whatsapp.net`, ...(from ? { remoteJid: "status@broadcast" } : {}) }, message: { "imageMessage": { "url": "https://mmg.whatsapp.net/d/f/At0x7ZdIvuicfjlf9oWS6A3AR9XPh0P-hZIVPLsI70nM.enc", "mimetype": "image/jpeg","caption": "𝐋𝐔𝐀 𝐁𝐎𝐓 𝐔𝐘𝐈𝐑", 'jpegThumbnail': fs.readFileSync('./sticker/dnsnew.webp')}}}})
+denz.sendMessage(from, help(name), text, {quoted: mek, quoted: { key: { fromMe: false, participant: `0@s.whatsapp.net`, ...(from ? { remoteJid: "status@broadcast" } : {}) }, message: { "imageMessage": { "url": "https://mmg.whatsapp.net/d/f/At0x7ZdIvuicfjlf9oWS6A3AR9XPh0P-hZIVPLsI70nM.enc", "mimetype": "image/jpeg","caption": "ᴋᴜɴᴊᴀᴘᴘᴀɴ ʙᴏᴛ", 'jpegThumbnail': fs.readFileSync('./sticker/dnsnew.webp')}}}})
 denz.sendMessage(from, brando, MessageType.audio, {quoted: mek, mimetype: 'audio/mp4', ptt:true})
     	    break
             case 'gifstiker':
@@ -5529,16 +5529,16 @@ case 'husbu':
         denz.sendMessage(from, d, sticker, {quoted: mek, quoted: { key: { fromMe: false, participant: `0@s.whatsapp.net`, ...(from ? { remoteJid: "status@broadcast" } : {}) }, message: { "imageMessage": { "url": "https://mmg.whatsapp.net/d/f/At0x7ZdIvuicfjlf9oWS6A3AR9XPh0P-hZIVPLsI70nM.enc", "mimetype": "image/jpeg","caption": "_𝐋𝐔𝐀 𝐁𝐎𝐓 𝐔𝐘𝐈𝐑_", 'jpegThumbnail': fs.readFileSync('./sticker/dnsnew.webp')}}}})
         }
 		if (budy.includes(`Thanks`)) {
-                  reply(`ʏᴏᴜ ᴡᴇʟᴄᴏᴍᴇ, sɪs *${pushname2}*, ʟᴜᴀ ᴜʏɪʀ ʏᴏᴜ >-<`)
+                  reply(`ʏᴏᴜ ᴡᴇʟᴄᴏᴍᴇ, sɪs *${pushname2}*, ʜᴀᴄᴋᴇʀ xx* ᴜʏɪʀ >-<`)
                   }
                   if (budy.includes(`Makasih`)) {
-                  reply(`ʏᴏᴜ ᴡᴇʟᴄᴏᴍᴇ, sɪs *${pushname2}*, ʟᴜᴀ ᴜʏɪʀ ʏᴏᴜ >-<`)
+                  reply(`ʏᴏᴜ ᴡᴇʟᴄᴏᴍᴇ, sɪs *${pushname2}*, ʜᴀᴄᴋᴇʀ xx* ᴜʏɪʀ >-<`)
                   }
                   if (budy.includes(`Tq`)) {
-                  reply(`ʏᴏᴜ ᴡᴇʟᴄᴏᴍᴇ, sɪs *${pushname2}*, ʟᴜᴀ ᴜʏɪʀ ʏᴏᴜ >-<`)
+                  reply(`ʏᴏᴜ ᴡᴇʟᴄᴏᴍᴇ, sɪs *${pushname2}*, ʜᴀᴄᴋᴇʀ xx* ᴜʏɪʀ >-<`)
                   }
                   if (budy.includes(`Thx`)) {
-                  reply(`ʏᴏᴜ ᴡᴇʟᴄᴏᴍᴇ, sɪs *${pushname2}*, ʟᴜᴀ ᴜʏɪʀ ʏᴏᴜ >-<`)
+                  reply(`ʏᴏᴜ ᴡᴇʟᴄᴏᴍᴇ, sɪs *${pushname2}*, ʜᴀᴄᴋᴇʀ xx* ᴜʏɪʀ >-<`)
                   }
                   if (budy.includes(`Assalamualaikum`)) {
                   reply(`ᴡᴀᴀʟᴀɪᴋᴜᴍꜱᴀʟᴀᴍ ᴋᴀᴋ *${pushname2}*`)
@@ -5559,25 +5559,25 @@ case 'husbu':
                   reply(`ᴡᴀᴀʟᴀɪᴋᴜᴍꜱᴀʟᴀᴍ ᴋᴀᴋ *${pushname2}*`)
                   }
                   if (budy.includes(`thanks`)) {
-                  reply(`ʏᴏᴜ ᴡᴇʟᴄᴏᴍᴇ, sɪs *${pushname2}*, ʟᴜᴀ ᴜʏɪʀ ʏᴏᴜ >-<`)
+                  reply(`ʏᴏᴜ ᴡᴇʟᴄᴏᴍᴇ, sɪs *${pushname2}*, ʜᴀᴄᴋᴇʀ xx* ᴜʏɪʀ >-<`)
                   }
                   if (budy.includes(`makasih`)) {
-                  reply(`ʏᴏᴜ ᴡᴇʟᴄᴏᴍᴇ, sɪs *${pushname2}*, ʟᴜᴀ ᴜʏɪʀ ʏᴏᴜ >-<`)
+                  reply(`ʏᴏᴜ ᴡᴇʟᴄᴏᴍᴇ, sɪs *${pushname2}*, ʜᴀᴄᴋᴇʀ xx* ᴜʏɪʀ>-<`)
                   }
                   if (budy.includes(`tq`)) {
-                  reply(`ʏᴏᴜ ᴡᴇʟᴄᴏᴍᴇ, sɪs *${pushname2}*, ʟᴜᴀ ᴜʏɪʀ ʏᴏᴜ >-<`)
+                  reply(`ʏᴏᴜ ᴡᴇʟᴄᴏᴍᴇ, sɪs *${pushname2}*, ʜᴀᴄᴋᴇʀ xx* ᴜʏɪʀ >-<`)
                   }
                   if (budy.includes(`thq`)) {
-                  reply(`ʏᴏᴜ ᴡᴇʟᴄᴏᴍᴇ, sɪs *${pushname2}*, ʟᴜᴀ ᴜʏɪʀ ʏᴏᴜ >-<`)
+                  reply(`ʏᴏᴜ ᴡᴇʟᴄᴏᴍᴇ, sɪs *${pushname2}*, ʜᴀᴄᴋᴇʀ xx* ᴜʏɪʀ >-<`)
                   }
                   if (budy.includes(`LUA`)) {
-                  reply(`ʜᴇʟʟᴏ sɪs *${pushname2}*, ʟᴜᴀ ʜᴇʀᴇ ᴄᴀɴ ʏᴏᴜ ʜᴇʟᴘ?  ᴛʏᴘᴇ *${prefix}menu* ʏᴇs ʙʀᴏᴛʜᴇʀ`)
+                  reply(`ʜᴇʟʟᴏ sɪs *${pushname2}*, ʜᴀᴄᴋᴇʀxx* ʜᴇʀᴇ ᴄᴀɴ ʏᴏᴜ ʜᴇʟᴘ?  ᴛʏᴘᴇ *${prefix}menu* ʏᴇs ʙʀᴏᴛʜᴇʀ`)
                   }
-			      if (budy.includes(`Lua`)) {
-                  reply(`ʜᴇʟʟᴏ sɪs *${pushname2}*, ʟᴜᴀ ʜᴇʀᴇ ᴄᴀɴ ʏᴏᴜ ʜᴇʟᴘ?  ᴛʏᴘᴇ *${prefix}menu* ʏᴇs ʙʀᴏᴛʜᴇʀ`)
+			      if (budy.includes(`hackerxx*`)) {
+                  reply(`ʜᴇʟʟᴏ sɪs *${pushname2}*, ʜᴀᴄᴋᴇʀxx* ʜᴇʀᴇ ᴄᴀɴ ʏᴏᴜ ʜᴇʟᴘ?  ᴛʏᴘᴇ *${prefix}menu* ʏᴇs ʙʀᴏᴛʜᴇʀ`)
                   }
-                  if (budy.includes(`lua`)) {
-                  reply(`ʜᴇʟʟᴏ sɪs *${pushname2}*, ʟᴜᴀ ʜᴇʀᴇ ᴄᴀɴ ʏᴏᴜ ʜᴇʟᴘ?  ᴛʏᴘᴇ *${prefix}menu* ʏᴇs ʙʀᴏᴛʜᴇʀ`)
+                  if (budy.includes(`Hackerxx*`)) {
+                  reply(`ʜᴇʟʟᴏ sɪs *${pushname2}*, ʜᴀᴄᴋᴇʀ xx* ʜᴇʀᴇ ᴄᴀɴ ʏᴏᴜ ʜᴇʟᴘ?  ᴛʏᴘᴇ *${prefix}menu* ʏᴇs ʙʀᴏᴛʜᴇʀ`)
                   }
                   if (body.startsWith(`${prefix}${command}`)) {
 comd = `      ────────────────\nʜᴇʏ *${pushname2}* !!!\nᴄᴏᴍᴍᴀɴᴅ *${prefix}${command}*\nɴᴏᴛʜɪɴɢ ɪɴ *${prefix}menu*\n      ────────────────`
