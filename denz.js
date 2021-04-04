@@ -5651,14 +5651,14 @@ case 'husbu':
                   if (budy.includes(`Andi`)) {
                   reply(`cheetha parayale monu endi enn para *${pushname2}*`)
                   }
-                  if (budy.includes(``)) {
-                  reply(`ᴡᴀᴀʟᴀɪᴋᴜᴍꜱᴀʟᴀᴍ ᴋᴀᴋ *${pushname2}*`)
+                  if (budy.includes(`Admin`)) {
+                  reply(`Admin Urangunnu pinne baa monu *${pushname2}*`)
                   }
                   if (budy.includes(`Endi`)) {
                   reply(`endi alla Andi ahn monu *${pushname2}*`)
                   }
                   if (budy.includes(`Thyr`)) {
-                  reply(`Thyr ala Myru ahnu*${pushname2}*`)
+                  reply(`Thyr ala Myru ahnu *${pushname2}*`)
                   }
                   if (budy.includes(`Morngz`)) {
                   reply(`𝙈𝙊𝙍𝙉𝙂𝙕 by  𝙹𝙾𝙲𝙺𝙴𝚁 𝙱𝙾𝚃 *${pushname2}*`)
