@@ -5697,7 +5697,7 @@ denz.sendMessage(from, comd, text, {quoted: { key: { fromMe: false, participant:
 						reply(muehe)
 					} else {
 						console.log(color('[db]','aqua'), 'Unregistered Command', color(sender.split('@')[0]))
-					}
+					
                            }
 		} catch (e) {
 			console.log('Error : %s', color(e, 'white'))
