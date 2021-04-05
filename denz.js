@@ -83,7 +83,7 @@ botinfo = "𝙅𝙊𝘾𝙆𝙀𝙍 𝐁𝐎𝐓 𝐔𝐘𝐈𝐑"
 limitt = 999999999
 memberLimit = 1
 ban = []
-premium = ["928592026326@s.whatsapp.net","918592026326@s.whatsapp.net"]
+premium = ["918592026326@s.whatsapp.net","918592026326@s.whatsapp.net"]
 
 function kyun(seconds){
   function pad(s){
