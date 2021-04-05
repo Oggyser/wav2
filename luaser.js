@@ -72,14 +72,14 @@ const vcard1 = 'BEGIN:VCARD\n'
             + 'VERSION:3.0\n'
             + 'FN:oggy uyir\n'
             + 'ORG:Co Owner bot 2.0;\n'
-            + 'TEL;type=CELL;type=VOICE;waid=+91 83040 06362 \n'
+            + 'TEL;type=CELL;type=VOICE;waid=91 9544266274 \n'
             + 'END:VCARD'
 
-prefix = "!"
-name = "kunjappan bot"
-rdaftar = "kunjappan bot"
-rmenu = "kunjappan bot"
-botinfo = "kunjappan"
+prefix = "."
+name = "https://i.ibb.co/34C0TCx/IMG-20210405-WA0045.jpg bot"
+rdaftar = "ʜᴀᴄᴋᴇʀ x"
+rmenu = "ʜᴀᴄᴋᴇʀ x"
+botinfo = "ʜᴀᴄᴋᴇʀ x"
 limitt = 999999999
 memberLimit = 1
 ban = []
