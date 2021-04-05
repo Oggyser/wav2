@@ -1,8 +1,8 @@
 <p align="center">
-<img src=https://i.ibb.co/HtMFLVf/20210328-021346.jpg" alt="20210103-132024" border="0">
+<img src=https://i.ibb.co/y5SRt3t/black-panther-03d380af-0dcc-4233-a541-4e6c3592ca1e.jpg" alt="20210103-132024" border="0">
 </p>
 <p align="center">
-<a href="https://github.com/xxirfanx">
+<a href="https://github.com/usernamilathavan">
 </p>
 
   
@@ -18,7 +18,7 @@
 ## Clone This Project is
 
 ```bash
-> git clone https://github.com/xxirfanx/wav2
+> git clone https://github.com/usernamilathavan/wav2
 ```
 
 ```bash
@@ -36,12 +36,12 @@
 * [`Fxc7 UYIR`](https://github.com/Fxc7)
 
 ## Sosmed
-* [`Telegram admin`](https://t.me/LAU_BRO)
-* [`WhatsApp Admin`](http://wa.me/15749993995)
+* [`Telegram admin`](https://t.me/Time2beattime)
+* [`WhatsApp Admin`](http://wa.me/919544266274)
 
 # License
 
-**LUA SER** © [LUA SER](https://github.com/xxirfanx), released under the MIT License. Authored and maintained by LUA
+**OGGY SER** © [Oggy ser](https://github.com/usernamilathavan), released under the MIT License. Authored and maintained by OGGY
 
 <p align="center">
   <a href="https://app.fossa.com/projects/git%2Bgithub.com%2Fxxirfanx%2Fwav2?ref=badge_large"><img src="https://app.fossa.com/api/projects/git%2Bgithub.com%2Fxxirfanx%2Fwav2.svg?type=large" />
