@@ -392,7 +392,7 @@ denz.sendMessage(from, hasil, text, {quoted: { key: { fromMe: false, participant
 			if (isBanned) return reply(mess.only.benned)
 			if (!isUser) return reply(mess.only.userB)
 				dmenu = `╓───「 *_𝙅𝙊𝘾𝙆𝙀𝙍 𝐁𝐎𝐓 𝐔𝐘𝐈𝐑_* 」
-║wa.me/8592026326
+║wa.me/+918592026326
 ╙───々
 ╓───「 *_ʙᴏᴛ ɪɴғᴏ_* 」
 ║❏ ᴄʀᴇᴀᴛᴏʀ: 𝟒 𝟒 𝟒
