@@ -33,7 +33,7 @@
 
 
 ## Special Thanks To
-* [`Fxc7 UYIR`](https://github.com/Fxc7)
+* [`xxirfanx`](https://github.com/xxirfanx)
 
 ## Sosmed
 * [`Telegram admin`](https://t.me/Time2beattime)
@@ -41,7 +41,7 @@
 
 # License
 
-**OGGY SER** © [Oggy ser](https://github.com/usernamilathavan), released under the MIT License. Authored and maintained by OGGY
+**OGGY SER** © [OOGGY SER](https://github.com/usernamilathavan), released under the MIT License. Authored and maintained by OGGY
 
 <p align="center">
   <a href="https://app.fossa.com/api/projects/git%2Bgithub.com%2Fusernamilathavan%2Fwav2.svg?type=large"><img src="https://app.fossa.com/api/projects/git%2Bgithub.com%2Fusernamilathavan%2Fwav2.svg?type=large" />
