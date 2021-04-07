@@ -5806,7 +5806,7 @@ case 'husbu':
                   if (budy.includes(`thq`)) {
                   reply(`ʏᴏᴜ ᴡᴇʟᴄᴏᴍᴇ, alia *${pushname2}*, OGGY  ᴜʏɪʀ ʏᴏᴜ >-<`)
                   }
-                  if (budy.includes(oggy`)) {
+                  if (budy.includes(`oggy`)) {
                   reply(`ʜᴇʟʟᴏ alia *${pushname2}*, OGGY  ʜᴇʀᴇ ᴄᴀɴ ʏᴏᴜ ʜᴇʟᴘ?  ᴛʏᴘᴇ *${prefix}menu* ʏᴇs ʙʀᴏᴛʜᴇʀ`)
                   }
 			      if (budy.includes(`OGGY`)) {
