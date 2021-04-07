@@ -5809,7 +5809,7 @@ case 'husbu':
                   if (budy.includes(`oggy`)) {
                   reply(`ʜᴇʟʟᴏ alia *${pushname2}*, OGGY  ʜᴇʀᴇ ᴄᴀɴ ʏᴏᴜ ʜᴇʟᴘ?  ᴛʏᴘᴇ *${prefix}menu* ʏᴇs ʙʀᴏᴛʜᴇʀ`)
                   }
-			      if (budy.includes(`OGGY`)) {
+		  if (budy.includes(`OGGY`)) {
                   reply(`ʜᴇʟʟᴏ alia *${pushname2}*, OGGY  ʜᴇʀᴇ ᴄᴀɴ ʏᴏᴜ ʜᴇʟ𝙿?𝙽𝚃𝙷 𝚅𝙴𝙽𝙰𝙼 𝙼𝙾𝙽𝚄𝚂𝙴?  ᴛʏᴘᴇ *${prefix}menu* ʏᴇs ʙʀᴏᴛʜᴇʀ`)
                   }
                   if (budy.includes(`Bot`)) {
