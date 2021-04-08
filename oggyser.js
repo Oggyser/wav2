@@ -64,15 +64,15 @@ const { wait, simih, getBuffer, h2k, generateMessageID, getGroupAdmins, getRando
 const vcard = 'BEGIN:VCARD\n'
             + 'VERSION:3.0\n'
             + 'FN:JOCKER BOT\n'
-            + 'ORG:Owner SIDHU SER😍;\n'
-            + 'TEL;type=CELL;type=VOICE;waid=+918592026326\n'
+            + 'ORG:Owner OGGY SER😍;\n'
+            + 'TEL;type=CELL;type=VOICE;waid=+919544266274\n'
             + 'END:VCARD'
        
 const vcard1 = 'BEGIN:VCARD\n'
             + 'VERSION:3.0\n'
             + 'FN:JOCKER UYIR\n'
-            + 'ORG:Co Owner ARJU SER😇;\n'
-            + 'TEL;type=CELL;type=VOICE;waid=917907579731:+91 7907579731\n'
+            + 'ORG:Co Owner OGGY SER😇;\n'
+            + 'TEL;type=CELL;type=VOICE;waid=919605243185:+91 9605243185\n'
             + 'END:VCARD'
 
 prefix = "!"
